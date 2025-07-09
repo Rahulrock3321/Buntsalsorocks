@@ -1,7 +1,7 @@
 public class AverageCalculator {
 
     public static void main(String[] args) {
-        int[] numbers = null;
+        int[] numbers = {1, 2, 3, 4, 5};
 
         System.out.println("Average: " + calculateAverage(numbers));
     }
